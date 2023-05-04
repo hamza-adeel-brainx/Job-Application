@@ -44,8 +44,19 @@ body {
   margin-bottom: 0rem;
   width: 23rem;
 }
-#sub-address{
+#sub-address1{
     margin-left: 20rem;
+}
+#sub-address2{
+    margin-left: 20rem;
+}
+#sub-Country{
+    margin-left: 20rem;
+}
+#sub-City{
+    position: relative;
+    top: 12px;
+    right: 100px;
 }
 #Country {
     margin-bottom: 0rem;
